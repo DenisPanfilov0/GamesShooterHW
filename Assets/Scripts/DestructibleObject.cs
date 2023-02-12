@@ -11,7 +11,7 @@ namespace Assets.Scripts
 
     {
         [SerializeField] private float hpInitial = 100;
-        [SerializeField] private float hpCurrent = 100;
+        [SerializeField] public float hpCurrent = 100;
 
         internal void ReceiveDamage(float damage)
         {
@@ -23,5 +23,7 @@ namespace Assets.Scripts
                 Destroy(gameObject);
             }
         }
+
+
     }
 }

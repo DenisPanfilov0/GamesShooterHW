@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33965599697136672}
   - component: {fileID: 23022011092513436}
   m_Layer: 0
-  m_Name: grenade_lowpoly_prefab
+  m_Name: grenade_lowpoly_prefab 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
